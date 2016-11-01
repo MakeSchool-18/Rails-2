@@ -12,12 +12,9 @@
 
 ## Schedule
 
-1. Week 1 - API Design & Integration Testing
+1. Week 1 - API Design & Integration Testing. Kick off Reddit on Rails.
 1. Week 2 - [Reddit on Rails 1-6](https://www.makeschool.com/tutorials/clone-reddit-using-rails/building-reddit)
 1. Week 3 - [Reddit on Rails 7-10](https://www.makeschool.com/tutorials/clone-reddit-using-rails/building-reddit)
 1. Week 4 - Expanding Reddit on Rails - pagination, Auth, Sub-Reddit, async voting
-1. Week 1
-1. Week 1
-1. Week 1
-1. Week 1
-1. Week 1
+1. Week 5 - Solo Rails Project
+1. Week 6 - Solo Rails Project
