@@ -5,6 +5,7 @@
 ### Baseline API Challenges
 
 **Goal: Sending GET and POST requests to your API**
+
 1. Using the Rails project you pushed live on Wednesday. Make sure there are a few posts in your post database. In the browser, make a `/posts.json` request. What does it return?
 1. Add the plugin [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) to Chrome to view JSON in a pretty way.
 1. Open up [Postman](https://www.getpostman.com/). Send the GET request again to `/posts` and to `/posts.json`.
@@ -14,6 +15,7 @@
   1. ([SO Question Solution](http://stackoverflow.com/questions/18690196/how-should-i-format-a-json-post-request-to-my-rails-app)) 
 
 **Goal: Manipulating [JBuilder](https://github.com/rails/jbuilder)**
+
 1. If your app's posts does not have comments, add them.
   1. `rails g scaffold comment post:references body:text`
     ```ruby
