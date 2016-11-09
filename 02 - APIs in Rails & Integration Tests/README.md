@@ -38,12 +38,12 @@
 
 ### Stretch Challenges
 
-** Goal: APIs**
+**Goal: APIs**
 
 1. Review this issue on the rails github repo about RESTful requests to a rails API endpoint needing to be present even on JSON formatted requests. [Issue](https://github.com/rails/rails/issues/3041)
 1. Review this [Contributing to Rails Guide](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html) and make a plan for how you would make Rails ignore CSRF tokens if the a request were `Content-Type = 'application/json'`
 
-** Goal: Testing** 
+**Goal: Testing** 
 
 1. Create a integration test file for minitest called `blog_flow`
   ```bash
