@@ -39,10 +39,12 @@
 ### Stretch Challenges
 
 ** Goal: APIs**
+
 1. Review this issue on the rails github repo about RESTful requests to a rails API endpoint needing to be present even on JSON formatted requests. [Issue](https://github.com/rails/rails/issues/3041)
 1. Review this [Contributing to Rails Guide](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html) and make a plan for how you would make Rails ignore CSRF tokens if the a request were `Content-Type = 'application/json'`
 
 ** Goal: Testing** 
+
 1. Create a integration test file for minitest called `blog_flow`
   ```bash
     rails g integration_test blog_flow
@@ -52,8 +54,10 @@
 ### Extra Stretch Challenges
 
 **API**
+
 1. Follow the [Rails Cast](http://railscasts.com/episodes/350-rest-api-versioning) on making a versioned API and create a RESTful versioned API.
 1. Add test coverage for the versioned API.
 
 **Testing**
+
 1. Follow [this tutorial](https://medium.com/@heidar/how-i-test-rails-apps-with-minitest-capybara-and-guard-5e07a6856781#.5mt5b0si6) to add `minitest-reporters` and `guard` to your test suite.
