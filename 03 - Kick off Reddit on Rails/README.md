@@ -5,12 +5,13 @@
 ## Pairs
 
 1. Kadeem & Jay
-1. Tassos & Ross
+1. Tassos & Brandon
 1. Fiona & Jose
 1. Fanisa & Eric
 1. Kojin & Alex
-1. Carlos & Enzo
+1. Carlos & Luca
 1. Michael & Corey
+1. Ross & Enzo
 
 ## Requirements
 
